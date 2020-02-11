@@ -5,7 +5,9 @@ public abstract class Mammal {
     // except they can have abstract methods
     public abstract boolean isFarmAnimal();
 
-    // all Mammal's can regular body heat
+    public abstract String getSound();
+
+    // all Mammal's can regular body heat, notice this is a concrete method
     public boolean canRegulateBodyHeat() {
         return true;
     }
