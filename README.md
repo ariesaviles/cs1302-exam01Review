@@ -7,7 +7,9 @@ Intended to be used by CS1302 students at the University of Georgia, this review
 
 **This is not an official review written by the exam authors: Dr. Barnes and Dr. Cotterell. This review should not be used as the only resource you use to prepare for the exam.**
 
-## Navigating Unix ##
+[Click here for instructions.](https://docs.google.com/document/d/15DYeyubYTEq3BQSpjXnyEWMpWn7lgDUFNMByM6DR0vY/edit?usp=sharing)
+
+<!-- ## Navigating Unix ##
 
 1. Change into cs1302-exam01Review (cd)
 
@@ -21,4 +23,4 @@ Intended to be used by CS1302 students at the University of Georgia, this review
 
 1. [bonus] Change into the src/cs1302/practice directory, how would you change back into cs1302-exam01Review in one command? (..)
 
-![pdf](./README.pdf)
+-->
