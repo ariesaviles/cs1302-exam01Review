@@ -15,3 +15,14 @@ Intended to be used by CS1302 students at the University of Georgia, this review
     * [Nodes](#nodes)
 
 ## Navigating Unix
+    1. Change into cs1302-exam01Review (cd)
+
+    2. Look around the directory and get comfortable (ls)
+
+    3. Create the structures src/cs1302/practice and src/cs1302/interface in one command and without changing directories (mkdir and pipes)
+
+    4. Move the java files within the directory to src/cs1302/practice (mv)
+
+    5. Create cs1302.practice.Moveable, by copying the Animal.java (cp)
+
+    6. [bonus] Change into the src/cs1302/practice directory, how would you change back into cs1302-exam01Review in one command? (..)
