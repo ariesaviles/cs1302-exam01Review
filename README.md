@@ -21,4 +21,4 @@ Intended to be used by CS1302 students at the University of Georgia, this review
 
 1. [bonus] Change into the src/cs1302/practice directory, how would you change back into cs1302-exam01Review in one command? (..)
 
-![pdf](README.pdf)
+![pdf](./README.pdf)
