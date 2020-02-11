@@ -7,13 +7,14 @@ Intended to be used by CS1302 students at the University of Georgia, this review
 
 **This is not an official review written by the exam authors: Dr. Barnes and Dr. Cotterell. This review should not be used as the only resource you use to prepare for the exam.**
 
-## Table of Contents
-    * [Navigating Unix](#navigating-unix)
-    * [Dependencies & UML](#dependencies-uml)
-    * [Exception Handling](#exception-handling)
-    * [Javadoc](#javadoc)
-    * [Nodes](#nodes)
-
+##### Table of Contents
+    [Navigating Unix](#navigating-unix)
+    [Dependencies & UML](#dependencies-uml)
+    [Exception Handling](#exception-handling)
+    [Javadoc](#javadoc)
+    [Nodes](#nodes)
+...snip...
+    <a name="navigating-unix"/>
 ## Navigating Unix
     1. Change into cs1302-exam01Review (cd)
 
