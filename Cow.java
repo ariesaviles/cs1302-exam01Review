@@ -1,14 +1,15 @@
 public class Cow extends Mammal {
-    String name;
+
 
     public Cow(String name) {
-        this.name = name;
-    }
+        super(super(name));
+    } // constructor
 
-    @Override
-    public String getSound() {
-        return "moo";
-    }
+    public boolean isFarmMammal() {
+        return true;
+    } // isFarmMammal
 
-
-}
+    public void sound() {
+        System.out.println("Moo!");
+    } // sound
+} // Cow

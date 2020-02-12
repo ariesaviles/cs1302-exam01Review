@@ -8,5 +8,5 @@ public interface Moveable {
     // breaking the classes which implement Moveable
     // throw exceptions
     public boolean hasLegs();
-    public void walkFaster(int speed);
+
 }
