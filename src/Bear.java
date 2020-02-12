@@ -1,3 +1,7 @@
+package cs1302.practice;
+
+import cs1302.practice.Mammal;
+
 public class Bear extends Mammal {
 
     public Bear(String name) {
