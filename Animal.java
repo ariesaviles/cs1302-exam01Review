@@ -1,4 +1,4 @@
-public abstract Animal implements Moveable {
+public abstract class Animal implements Moveable {
     private String name;
 
     public Animal(String name) {
