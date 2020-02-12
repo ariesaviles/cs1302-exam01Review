@@ -1,3 +1,4 @@
+package cs1302.inter;
 
 public interface Moveable {
     // variables in interfaces are static and final by default
