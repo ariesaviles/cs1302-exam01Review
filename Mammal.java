@@ -10,7 +10,7 @@ public abstract class Mammal extends Animal {
     // except they can have abstract methods
     public abstract void sound();
 
-    public abstract void isFarmMammal();
+    public abstract boolean isFarmMammal();
 
     // all Mammals have legs
     public boolean hasLegs() {
