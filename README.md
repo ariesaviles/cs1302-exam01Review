@@ -5,9 +5,11 @@
 
 Intended to be used by CS1302 students at the University of Georgia, this review takes students through a comprehensive look of the material and concepts we have learned up to this point in the semester by combining the key concepts into one compact example. In this review, students will test their knowledge of unix commands, dependencies, interfaces, abstract classes, exceptions, javadocs, and nodes.
 
+[Click here for instructions.](https://docs.google.com/document/d/15DYeyubYTEq3BQSpjXnyEWMpWn7lgDUFNMByM6DR0vY/edit?usp=sharing)
+
 **This is not an official review written by the exam authors: Dr. Barnes and Dr. Cotterell. This review should not be used as the only resource you use to prepare for the exam.**
 
-[Click here for instructions.](https://docs.google.com/document/d/15DYeyubYTEq3BQSpjXnyEWMpWn7lgDUFNMByM6DR0vY/edit?usp=sharing)
+
 
 <!-- ## Navigating Unix ##
 
