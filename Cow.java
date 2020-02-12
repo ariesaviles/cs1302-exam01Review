@@ -2,7 +2,7 @@ public class Cow extends Mammal {
 
 
     public Cow(String name) {
-        super(super(name));
+        super(name);
     } // constructor
 
     public boolean isFarmMammal() {
