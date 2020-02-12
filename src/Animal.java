@@ -1,3 +1,7 @@
+package cs1302.practice;
+
+import cs1302.inter.Moveable;
+
 public abstract class Animal implements Moveable {
     private String name;
 
